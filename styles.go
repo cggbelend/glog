@@ -1,4 +1,4 @@
-package glog
+package main
 
 import "github.com/charmbracelet/lipgloss"
 

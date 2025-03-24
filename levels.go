@@ -1,4 +1,4 @@
-package glog
+package main
 
 // define ur levels here
 
