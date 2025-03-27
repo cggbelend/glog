@@ -1,4 +1,4 @@
-module glog
+module github.com/cggbelend/glog
 
 go 1.23.3
 
